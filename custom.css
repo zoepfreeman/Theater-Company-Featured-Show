@@ -1,0 +1,78 @@
+.white_link {
+    color: white;
+    text-decoration: none;
+    font-size: xx-small;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: xx-large;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    letter-spacing: 0.04em;
+}
+
+.navbar-brand:hover {
+    color: grey;
+}
+
+.nav-link {
+    color: white;
+    font-size: x-small;
+}
+
+.nav-link:hover {
+    color: grey;
+}
+
+.centered-div {
+    position: relative;
+}
+
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7vw;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-weight: 100;
+}
+
+.card-body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.card-text {
+    font-size: small;
+}
+
+.text-right {
+    position: absolute;
+    right: 0px;
+    margin-right: 0px;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#read-more {
+    background-color: orange;
+    border-color: grey;
+    border-width: 1px;
+    color: white;
+}
+
+.month {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(144, 143, 143);
+    background-color: rgb(232, 230, 230);
+    width: 65%;
+    margin: auto;
+    margin-top: 20px;
+    padding-left: 2%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
